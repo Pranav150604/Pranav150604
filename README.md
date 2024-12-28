@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pranav Shivanand Patil</h1>
-<h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast from Bengaluru, India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pranav-patil&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-patil" />
