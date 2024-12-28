@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**Pranav150604/Pranav150604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Pranav Shivanand Patil</h1>
 <h3 align="center">A passionate Full-Stack Developer and Tech Enthusiast from India</h3>
@@ -25,8 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring **AI, Machine Learning, and Blockchain**  
 - 📚 I’m skilled in **MERN Stack Development, DSA, and Docker**  
 - 🎓 Pursuing BE in **Information Science** at BMS College of Engineering (CGPA: 9.66)  
-- ⚡ Fun fact: I love playing **chess** and **throwball**  
-- 📫 How to reach me: **pranav.patil@gmail.com**
+- ⚡ Fun fact: I love playing **chess**, **throwball**, **coding** etc.
+- 📫 How to reach me: **pranavpatil152004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
